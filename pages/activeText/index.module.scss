@@ -1,0 +1,43 @@
+.h1{
+    font-weight: 900;
+    line-height: 50px;
+    font-size: 30px;
+}
+.box{
+    width: 820px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top:20px;
+    background: #fff;
+}
+.h2{
+    display: flex;
+    padding:20px 0;
+}
+.textname{
+    line-height: 25px;
+    height: 25px;
+    padding-left: 10px;
+}
+.line{ line-height: 24px; white-space:normal;}
+
+.pre{
+
+    overflow: hidden;
+    img{ width: 100%;}
+}
+.stylecss.num{ line-height: 20px; font-size: 14px;}
+.fontcolor{
+    color:#8a919f
+}
+
+.boxMark{
+    padding: 10px;
+}
+.clie{
+    width: 20%;
+    position: fixed;
+    display: flex;
+    top: 100px;
+    justify-content:center 
+}

@@ -1,0 +1,17 @@
+.box{ position: relative;}
+.title{
+
+    line-height: 50px;
+    height: 50px;
+    width: 100%;
+    border: 0;
+    outline: none;
+    padding-left: 20px;
+    font-weight: 900;
+}
+.Md{
+    .w-md-editor{
+        height: calc(100vh - 50px);
+    }
+}
+.button{ position: absolute; top: 10px; right: 100px; height: 30px; }

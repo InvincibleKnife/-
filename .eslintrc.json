@@ -1,0 +1,5 @@
+{
+  // 配置官方校验   
+  "extends": ["next/core-web-vitals","eslint:recommended"],
+  "es6":true
+}

@@ -1,0 +1,15 @@
+.box{
+    width: 48px;
+    height: 500px; 
+    // background: #fff;
+    .r{
+        button{ max-width: 100%;  background: #fff; color: #ccc; }
+        button:hover{ background: #fff !important; color: #000 !important;}
+        
+    }
+    .u{
+        button{  max-width: 100%;  background: #fff; color: #1e80ff; }
+        button:hover{ background: #fff !important;  color: #1e80ff !important;}
+    }
+    
+}

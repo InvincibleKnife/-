@@ -1,0 +1,11 @@
+.box{
+    width: 100%;
+    // padding: 20px;
+    .h{ font-weight: 900; padding-bottom: 30px; font-size: 20px;}
+    .ebox{
+        display: flex;
+        .leftimg{ width: 70px;}
+        .righttext{ flex: 1;}
+    }
+    .ebutton{ display: flex; justify-content: right; padding-top: 30px;}
+}
